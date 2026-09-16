@@ -59,3 +59,6 @@ International License (CC BY 4.0).
  
 * Universidade do Estado de Santa Catarina (UDESC)
 * Instituto Federal Catarinense (IFC)
+
+## DOI
+ * DOI: 10.5281/zenodo.22801843
