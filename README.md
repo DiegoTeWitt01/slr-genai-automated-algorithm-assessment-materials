@@ -6,8 +6,8 @@ Materials for the SLR on Generative AI for automated algorithm assessment (PPGEC
 This repository contains the datasets, extraction sheets, search strings,
 and complementary materials used in the systematic literature review (SLR):
  
-**"[título do artigo/capítulo da tese]"**
-[veículo de publicação, ano — ou "Doctoral thesis in progress, PPGECMT/UDESC"]
+**"Automated Assessment of Algorithms with Generative Artificial Intelligence from an Active Assessment Perspective: A Systematic Literature Review"**
+[ "Doctoral thesis in progress, PPGECMT/UDESC"]
  
 ## Purpose
  
